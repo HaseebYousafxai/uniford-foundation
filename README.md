@@ -1,4 +1,4 @@
-# University Performance Analysis - Internship Project at Uniford Foundation
+# University Performance Analysis - Project at Uniford Foundation
 
 ## Table of Contents
 - [Overview](#overview)
