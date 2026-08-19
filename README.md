@@ -15,7 +15,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-During my internship at Uniford Foundation, I conducted a comprehensive analysis of the top-ranked universities in Pakistan, with a focus on the Computer Science (CS) department. The primary objective of this project was to provide valuable insights into the performance and effectiveness of these educational institutions to key stakeholders, including students, educators, and policymakers.
+During my experience at Uniford Foundation, I conducted a comprehensive analysis of the top-ranked universities in Pakistan, with a focus on the Computer Science (CS) department. The primary objective of this project was to provide valuable insights into the performance and effectiveness of these educational institutions to key stakeholders, including students, educators, and policymakers.
 
 ## Data Sources
 The data for this project was gathered from multiple reputable sources, such as:
@@ -50,7 +50,7 @@ The interactive Power BI dashboard created as part of this project allows users 
 - Detailed information and insights on the analyzed data
 
 ## Conclusion
-This internship project at Uniford Foundation has provided me with the opportunity to apply data analysis and visualization techniques to address a critical challenge in the education sector. The findings from this study can inform decision-making processes and help stakeholders make more informed choices about educational institutions and their programs.
+This experience project at Uniford Foundation has provided me with the opportunity to apply data analysis and visualization techniques to address a critical challenge in the education sector. The findings from this study can inform decision-making processes and help stakeholders make more informed choices about educational institutions and their programs.
 
 ## Getting Started
 
@@ -58,4 +58,4 @@ This internship project at Uniford Foundation has provided me with the opportuni
 - Power BI Desktop
 
 ## Acknowledgments
-I would like to express my gratitude to the Uniford Foundation for providing me with this internship opportunity and the guidance throughout the project. I also acknowledge the valuable data sources and resources that made this analysis possible.
+I would like to express my gratitude to the Uniford Foundation for providing me with this experience opportunity and the guidance throughout the project. I also acknowledge the valuable data sources and resources that made this analysis possible.
